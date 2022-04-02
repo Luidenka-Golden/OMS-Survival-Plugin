@@ -1,0 +1,10 @@
+name: OMS_Survival
+version: '${project.version}'
+main: com.luidenka.survival.Survival
+api-version: 1.8
+authors: [ Luidenka ]
+commands:
+  lobby:
+    aliases: [l]
+    description: Return to SMP Lobby
+    usage: /<command>

@@ -1,0 +1,24 @@
+v0.0.6.0 Changelog:
+- Redefined version numbers
+
+
+Build 5.2 Changelog:
+- Recreate crafting GUI
+
+
+Build 5.1 Changelog:
+- Solve Crafting grid can't open bug
+
+Build 5 Changelog:
+- Added Skills GUI
+
+
+Build 4 Changelog:
+- Added custom crafting grid
+
+
+Build 3 Changelog:
+
+- Added Lobby command:
+    - When type "lobby" or its alias "l", it will send to the OMS SMP Lobby.
+- Added the changelog
